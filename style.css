@@ -1,0 +1,22 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  
+    background-color: azure;
+    color: #333333;
+  
+    width: 980px;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 46px;
+    color:darkblue;
+    margin-bottom: 0;
+  }
+  
+  main > h2 {
+    text-align: center;
+    font-size: 25px;
+  }
